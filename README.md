@@ -1,7 +1,6 @@
 # 🎓 Outclass – Your Virtual Gateway to Academic Excellence
 
-🎥 **Watch the Demo Video**  
-[▶️ Click here to watch the video demo](./outclass.mp4)
+<video src="outclass.mp4" width="100%" controls></video>
 
 Welcome to **Outclass**, where learning is redefined for the digital age!  
 We bring top-tier virtual classes right to your screen – designed specifically for **Matric (9th & 10th)** and **Intermediate (1st & 2nd Year)** students across all major boards.
